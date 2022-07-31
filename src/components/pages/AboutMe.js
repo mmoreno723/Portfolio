@@ -1,9 +1,27 @@
 import React from "react";
+import Header from "../Header";
+
+const card = {
+  width: "50%",
+  margin: "auto",
+  padding: "10px",
+};
 
 export default function AboutMe() {
   return (
-    <div>
-      <h1>Hello</h1>
-    </div>
+    <>
+      <div>
+        <Header />
+      </div>
+      <div class="card" style={card}>
+        <div class="card-body">
+          <h5 class="card-title">About Me</h5>
+          <p class="card-text">
+            Welcome to my portfolio, I'm an aspiring full-stack web developer
+            with a certificate in web development from Columbia University
+          </p>
+        </div>
+      </div>
+    </>
   );
 }

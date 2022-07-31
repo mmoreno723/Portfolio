@@ -1,8 +1,12 @@
 import React from "react";
 
+const navigationTabs = {
+  margin: "auto",
+};
+
 function NavTabs({ currentPage, handlePageChange }) {
   return (
-    <ul className="nav nav-tabs">
+    <ul style={navigationTabs} className="nav nav-tabs">
       <li className="nav-item">
         <a
           href="#aboutMe"
