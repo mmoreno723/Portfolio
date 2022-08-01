@@ -7,12 +7,12 @@ const jumboText = {
 export default function Resume() {
   return (
     <>
-      <div style={jumboText} class="jumbotron">
-        <h1 class="display-4">Resume</h1>
+      <div style={jumboText} className="jumbotron">
+        <h1 className="display-4">Resume</h1>
       </div>
-      <div class="mx-auto">
+      <div className="mx-auto">
         <iframe
-          class="mx-auto"
+          className="mx-auto"
           title="Resume"
           src="Michael Moreno FS Resume.pdf#toolbar=0"
           width="80%"

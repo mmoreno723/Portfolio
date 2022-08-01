@@ -13,10 +13,10 @@ export default function AboutMe() {
       <div>
         <Header />
       </div>
-      <div class="card" style={card}>
-        <div class="card-body">
-          <h5 class="card-title">About Me</h5>
-          <p class="card-text">
+      <div className="card" style={card}>
+        <div className="card-body">
+          <h5 className="card-title">About Me</h5>
+          <p className="card-text">
             Welcome to my portfolio, I'm an aspiring full-stack web developer
             with a certificate in web development from Columbia University
           </p>
