@@ -16,8 +16,8 @@ export default function Portfolio() {
           <p className="lead">A display of projects I've worked on</p>
         </div>
       </div>
-      <div id="portfolioBox" className="container">
-        <div id="gridCards" className="row">
+      <div className="container">
+        <div className="row">
           <div className="col-4 card">
             <div className="card-body">
               <h5 className="card-title">News Crawler</h5>
@@ -76,7 +76,9 @@ export default function Portfolio() {
               Visit the Repo
             </a>
           </div>
-          <div className="col-4 card">
+        </div>
+        <div className="row mt-5">
+          <div className="col-4 card ">
             <div className="card-body">
               <h5 className="card-title">Password Generator</h5>
               <p className="card-text">

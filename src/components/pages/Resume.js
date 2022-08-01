@@ -10,9 +10,8 @@ export default function Resume() {
       <div style={jumboText} className="jumbotron">
         <h1 className="display-4">Resume</h1>
       </div>
-      <div className="mx-auto">
+      <div>
         <iframe
-          className="mx-auto"
           title="Resume"
           src="Michael Moreno FS Resume.pdf#toolbar=0"
           width="80%"
