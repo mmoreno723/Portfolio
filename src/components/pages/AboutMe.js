@@ -20,7 +20,7 @@ export default function AboutMe() {
           <div>
             <h5>About Me</h5>
             <p>
-              Welcome to my portfolio, I'm an aspiring full-stack developer
+              Welcome to my portfolio! I'm an aspiring full-stack developer
               based in South Florida. I recently obtained a certificate in web
               development from a coding boot camp administred by Columbia
               University.
