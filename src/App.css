@@ -13,17 +13,3 @@
   width: 90%;
   height: 200px;
 }
-
-@media screen and (max-width: 768px) {
-  #changeClr {
-    background-color: aqua;
-  }
-
-  /* #boxes {
-    flex-direction: column;
-  } */
-
-  /* #box {
-    width: 100%;
-  }  */
-}

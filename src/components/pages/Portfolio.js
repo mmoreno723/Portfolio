@@ -11,7 +11,7 @@ export default function Portfolio() {
       <div
         id="changeClr"
         style={jumboText}
-        className="jumbotron jumbotron-fluid"
+        className="jumbotron bg-dark text-white jumbotron-fluid"
       >
         <div className="container">
           <h1 className="display-4">My Portfolio</h1>

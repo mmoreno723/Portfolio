@@ -7,7 +7,7 @@ const jumboText = {
 export default function Resume() {
   return (
     <>
-      <div style={jumboText} className="jumbotron">
+      <div style={jumboText} className="jumbotron bg-dark text-white">
         <h1 className="display-4">Resume</h1>
       </div>
       <div>
