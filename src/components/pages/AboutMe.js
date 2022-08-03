@@ -39,33 +39,8 @@ export default function AboutMe() {
             <br></br>
             <p>
               Navigate through my portfolio to see more about my projects and to
-              view my resume. Check me out on these platforms:
+              view my resume.
             </p>
-          </div>
-          <div id="linkBox">
-            <div>
-              <a
-                href="https://github.com/mmoreno723"
-                target="_blank"
-                rel="noreferrer"
-              >
-                <i class="fa-brands fa-3x fa-github"></i>
-              </a>
-            </div>
-            <div>
-              <a
-                href="https://www.linkedin.com/in/michael-moreno-56417a149/"
-                target="_blank"
-                rel="noreferrer"
-              >
-                <i class="fa-brands fa-3x fa-linkedin"></i>
-              </a>
-            </div>
-            <div>
-              <a href="mailto: morenomichael723@gmail.com">
-                <i class="fa-solid fa-3x fa-at"></i>
-              </a>
-            </div>
           </div>
         </div>
       </div>
