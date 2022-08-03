@@ -50,6 +50,11 @@ main {
   transform: translateY(-0.5em);
 }
 
+#indTabs {
+  height: 45px;
+  margin-top: 5px;
+}
+
 #btn {
   background-color: white;
   color: #3eaee7;
