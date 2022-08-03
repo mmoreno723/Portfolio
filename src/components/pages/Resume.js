@@ -7,14 +7,14 @@ const jumboText = {
 export default function Resume() {
   return (
     <>
-      <div style={jumboText} className="jumbotron bg-dark text-white">
+      <div style={jumboText} className="jumbotron bg-white">
         <h1 className="display-4">Resume</h1>
       </div>
       <div>
         <iframe
           title="Resume"
           src="Michael Moreno FS Resume.pdf#toolbar=0"
-          width="80%"
+          width="100%"
           height="1100px"
         ></iframe>
       </div>

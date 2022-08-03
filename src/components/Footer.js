@@ -3,17 +3,19 @@ import "../App.css";
 
 const footerText = {
   textAlign: "center",
+  fontSize: "16px",
 };
 
 const linkColor = {
-  color: "black",
+  color: "#3eaee7",
 };
 
 const Footer = () => {
   return (
     <footer style={footerText}>
       <div>
-        <div>Get In Touch</div>
+        <h5 id="footerHeadText">Get In Touch</h5>
+        <br></br>
         <p>
           Reach out to me if you have any questions or would like to hear about
           my current availability.

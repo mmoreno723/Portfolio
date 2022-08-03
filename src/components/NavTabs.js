@@ -9,7 +9,6 @@ const bgkColor = {
 const tabs = {
   color: "white",
   width: "40px",
-
   fontSize: "23px",
 };
 
