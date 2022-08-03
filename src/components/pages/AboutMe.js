@@ -9,10 +9,14 @@ const aboutMeBox = {
   padding: "10px",
 };
 
+const jumboColor = {
+  backgroundColor: "#373F51",
+};
+
 export default function AboutMe() {
   return (
     <>
-      <div class="jumbotron bg-dark text-white jumbotron-fluid">
+      <div style={jumboColor} class="jumbotron text-white jumbotron-fluid">
         <div>
           <Header />
         </div>

@@ -21,7 +21,11 @@ const bar = {
 function NavTabs({ currentPage, handlePageChange }) {
   return (
     <div style={bgkColor}>
-      <ul style={bar} className="nav nav-tabs d-flex justify-content-around">
+      <ul
+        id="tabs"
+        style={bar}
+        className="nav nav-tabs d-flex justify-content-around"
+      >
         <li id="indTabs" className="nav-item">
           <a
             style={tabs}
