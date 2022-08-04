@@ -26,7 +26,7 @@ const Header = () => {
         <img
           style={portraitImg}
           alt="Portrait"
-          src="MichaelMorenoPortrait.jpg"
+          src="MichaelMorenoPortrait.JPG"
         ></img>
       </div>
     </header>
