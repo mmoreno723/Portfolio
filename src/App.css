@@ -11,6 +11,22 @@
   margin-top: 5px;
 }
 
+#hamburgerMenu {
+  display: none;
+}
+
+#menuLinks {
+  display: none;
+}
+
+#menuLinks a {
+  display: block;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 23px;
+  color: white;
+}
+
 /* About Me Page */
 #headerText {
   border-bottom: 2px solid white;
@@ -121,11 +137,14 @@ footer {
     margin-top: 20px;
   }
   #tabs {
-    display: block;
-    justify-content: center;
+    display: none;
   }
   #indTabs {
     border-bottom: solid white 2px;
     text-align: center;
+  }
+  #hamburgerMenu {
+    display: block;
+    cursor: pointer;
   }
 }
