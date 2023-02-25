@@ -12,10 +12,10 @@ export default function Resume() {
       </div>
       <div>
         <iframe
-          title="Resume"
-          src="Michael Moreno FS Resume.pdf#toolbar=0"
+          src={require("../../resume/Michael Moreno FS Resume.pdf#toolbar=0")}
+          height="1000px"
           width="100%"
-          height="1100px"
+          title="Resume"
         ></iframe>
       </div>
     </>

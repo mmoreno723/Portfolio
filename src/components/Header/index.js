@@ -26,7 +26,7 @@ const Header = () => {
         <img
           style={portraitImg}
           alt="Portrait"
-          src="MichaelMorenoPortrait.JPG"
+          src={require("../../images/MichaelMorenoPortrait.JPG")}
         ></img>
       </div>
     </header>

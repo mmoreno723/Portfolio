@@ -18,8 +18,8 @@ export default function Portfolio() {
         <div id="indBox">
           <img
             id="portfolioImg"
+            src={require("../../images/successful-search.png")}
             alt="News Crawler"
-            src="successful-search.png"
           ></img>
           <h5>News Crawler</h5>
           <p>
@@ -38,7 +38,11 @@ export default function Portfolio() {
           </a>
         </div>
         <div id="indBox">
-          <img id="portfolioImg" alt="JATE" src="JATE.png"></img>
+          <img
+            id="portfolioImg"
+            src={require("../../images/JATE.png")}
+            alt="JATE"
+          ></img>
           <h5>PWA Text Editor</h5>
           <p>
             Progressive Web Application that combines the server and client side
@@ -59,8 +63,8 @@ export default function Portfolio() {
           <div>
             <img
               id="portfolioImg"
+              src={require("../../images/work-scheduler.png")}
               alt="Work Scheduler"
-              src="work-scheduler.png"
             ></img>
             <h5>Work Scheduler</h5>
             <p>
@@ -82,18 +86,18 @@ export default function Portfolio() {
         <div id="indBox">
           <img
             id="portfolioImg"
-            alt="Password Generator"
-            src="password-generator.png"
+            src={require("../../images/country-profile.png")}
+            alt="Country Profile"
           ></img>
-          <h5>Password Generator</h5>
+          <h5>Country Profile Index</h5>
           <p>
-            A front end application that generates random passwords based on
-            users' inputs.
+            Search for any country in the world to find facts like population,
+            capital, and demonym.
           </p>
-          <p>Tools/technologies used: HTML, CSS, JavaScript</p>
+          <p>Tools/technologies used: JavaScript, REST API</p>
           <a
             id="btn"
-            href="https://github.com/mmoreno723/new-generator-repo"
+            href="https://github.com/mmoreno723/Country-Profile-Index"
             target="_blank"
             rel="noreferrer"
             className="btn btn-primary"
@@ -104,8 +108,8 @@ export default function Portfolio() {
         <div id="indBox">
           <img
             id="portfolioImg"
+            src={require("../../images/e-commerce.png")}
             alt="E-Commerce ORM"
-            src="e-commerce.png"
           ></img>
           <h5>E-Commerce ORM</h5>
           <p>
@@ -127,8 +131,8 @@ export default function Portfolio() {
           <div>
             <img
               id="portfolioImg"
+              src={require("../../images/social-media-backend.png")}
               alt="Social Media Backend"
-              src="social-media-backend.png"
             ></img>
             <h5>Backend Social Network API</h5>
             <p>
