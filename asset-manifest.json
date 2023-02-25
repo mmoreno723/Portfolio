@@ -1,13 +1,21 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.00379cba.css",
-    "main.js": "/Portfolio/static/js/main.3dba508f.js",
+    "main.js": "/Portfolio/static/js/main.13b4575f.js",
+    "static/media/successful-search.png": "/Portfolio/static/media/successful-search.ed3eb0d6a39e630bbabd.png",
+    "static/media/country-profile.png": "/Portfolio/static/media/country-profile.48fa85a09a343aeed105.png",
+    "static/media/JATE.png": "/Portfolio/static/media/JATE.7e664ad88e89e95199cb.png",
+    "static/media/e-commerce.png": "/Portfolio/static/media/e-commerce.5ba1a9889fef8c7b68b8.png",
+    "static/media/social-media-backend.png": "/Portfolio/static/media/social-media-backend.70a1a158248d37744f2c.png",
+    "static/media/work-scheduler.png": "/Portfolio/static/media/work-scheduler.67e47e1eb968df36f57a.png",
+    "static/media/MichaelMorenoPortrait.JPG": "/Portfolio/static/media/MichaelMorenoPortrait.d90d19c5559cde96ab7b.JPG",
+    "static/media/Michael Moreno FS Resume.pdf#toolbar=0": "/Portfolio/static/media/Michael Moreno FS Resume.6b75e00661a4b221bf41.pdf",
     "index.html": "/Portfolio/index.html",
     "main.00379cba.css.map": "/Portfolio/static/css/main.00379cba.css.map",
-    "main.3dba508f.js.map": "/Portfolio/static/js/main.3dba508f.js.map"
+    "main.13b4575f.js.map": "/Portfolio/static/js/main.13b4575f.js.map"
   },
   "entrypoints": [
     "static/css/main.00379cba.css",
-    "static/js/main.3dba508f.js"
+    "static/js/main.13b4575f.js"
   ]
 }
